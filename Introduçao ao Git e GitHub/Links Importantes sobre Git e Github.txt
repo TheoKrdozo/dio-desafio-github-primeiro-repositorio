@@ -1,0 +1,4 @@
+Link para download do Git para Windows =>  https://git-scm.com/download/win
+
+Os 10 comandos mais usados no Git =>    https://web.dio.me/articles/10-comando-git-mais-utilizados-no-dia-a-dia-do-desenvolvedor?page=1&order=oldest
+(autora Thallyta Castro)
